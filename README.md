@@ -19,7 +19,7 @@
 ✅ Mobile-friendly design for on-the-go conversations
 
 
-## Tech Stack
+## 🚀 Tech Stack
 
 ### Frontend:
 
@@ -47,7 +47,7 @@ To get started, follow the steps below to install and run the chatbot locally:
 
 
 
-### Prerequisites
+### 📋 Prerequisites
 Make sure you have the following installed:
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
@@ -59,6 +59,11 @@ Google AI Studio API key (👉 Get it here)
 A modern web browser (Chrome, Edge, Firefox, Safari)
 
 
+## 🎯 Contributing
+
+We welcome contributions! Feel free to fork the repo, submit pull requests, or suggest improvements.
+
+
 ## Clone the Repository
 Clone this repository to your local machine using:
 ```bash
@@ -68,9 +73,6 @@ git clone https://github.com/Rojina-Sharma99/CHAT_WITH_EXPRESS.git
 
 
 
-## Contributing
-
-We welcome contributions! Feel free to fork the repo, submit pull requests, or suggest improvements.
 
 
 
