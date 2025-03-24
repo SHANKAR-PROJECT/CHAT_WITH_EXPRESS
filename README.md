@@ -21,7 +21,7 @@
 
 ## Tech Stack
 
-# Frontend:
+### Frontend:
 
 HTML5
 
@@ -29,13 +29,13 @@ CSS3
 
 JavaScript
 
-# Backend:
+### Backend:
 
 Node.js
 
 Express.js
 
-# AI Integration:
+## AI Integration:
 
 Google Gemini 2.0 Flash API
 
