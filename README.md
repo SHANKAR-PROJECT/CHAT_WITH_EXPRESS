@@ -38,9 +38,14 @@ Express.js
 # AI Integration:
 
 Google Gemini 2.0 Flash API
+
+
+
 ## Installation
 
 To get started, follow the steps below to install and run the chatbot locally:
+
+
 
 ### Prerequisites
 Make sure you have the following installed:
@@ -53,31 +58,6 @@ Google AI Studio API key (👉 Get it here)
 
 A modern web browser (Chrome, Edge, Firefox, Safari)
 
-
-🔧 Installation & Setup
-
-Clone the repository
-
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-
-Create a .env file in the root directory
-
-touch .env
-
-Add your API key to the .env file
-
-GEMINI_API_KEY=your_google_gemini_api_key_here
-
-Install dependencies
-
-npm install
-
-Start the server
-
-node server.js
-
-Visit the app in your browser
 
 ### Clone the Repository
 Clone this repository to your local machine using:
