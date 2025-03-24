@@ -59,16 +59,19 @@ Google AI Studio API key (👉 Get it here)
 A modern web browser (Chrome, Edge, Firefox, Safari)
 
 
-### Clone the Repository
+## Clone the Repository
 Clone this repository to your local machine using:
 ```bash
 git clone https://github.com/Rojina-Sharma99/CHAT_WITH_EXPRESS.git
 
 
-🎯 Contributing
+
+
+
+## Contributing
 
 We welcome contributions! Feel free to fork the repo, submit pull requests, or suggest improvements.
 
 
-This version includes the quick response, media support, and emoji features, highlighting them as important functions of the bot.
+
 
