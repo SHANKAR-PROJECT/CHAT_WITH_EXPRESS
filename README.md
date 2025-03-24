@@ -1,7 +1,7 @@
 # CHAT_WITH_EXPRESS - Chatbot using Express
 
 ## Description
-`CHAT_WITH_EXPRESS` is a simple chatbot application built using **Express.js** as the backend. The chatbot can handle various types of requests and respond with predefined answers, simulating a real-time conversational experience.
+`CHAT_WITH_EXPRESS` is a simple An intelligent, real-time AI chatbot powered by Google Gemini API — designed with a secure Node.js backend to protect API keys and deliver fast, seamless conversations. Built for developers and innovators looking to integrate advanced AI chat capabilities with confidence and reliability. The chatbot can handle various types of requests and respond with predefined answers, simulating a real-time conversational experience.
 
 ## Features
 - Real-time chatbot with Express backend
